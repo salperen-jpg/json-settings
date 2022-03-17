@@ -1,0 +1,31 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.fontSize": 19,
+    "editor.tabSize": 1,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+},
+"editor.minimap.enabled": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"editor.cursorBlinking": "expand",
+  "material-icon-theme.activeIconPack": "react",
+  "material-icon-theme.folders.theme": "specific",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "window.zoomLevel": 1,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}
